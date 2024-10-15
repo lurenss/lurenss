@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lorenzo a software engineer fascinated by AI, co-founder ![@scrapegraphai]https://github.com/ScrapeGraphAI
+I'm Lorenzo a software engineer fascinated by AI, co-founder ![scrapegraphai]https://github.com/ScrapeGraphAI
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lurenss&theme=2077)
 
