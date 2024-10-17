@@ -2,11 +2,14 @@
 
 I'm Lorenzo aka Lurens a software engineer fascinated by AI, currently working as a  co-founder @ScrapeGraphAI 🔭🕸️
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lurenss&theme=2077)
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=lurenss&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lurenss&theme=2077)
 
 
 
