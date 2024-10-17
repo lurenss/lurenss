@@ -4,7 +4,7 @@ I'm Lorenzo aka Lurens a software engineer fascinated by AI, currently working a
 
 
 
-![👨🏼‍💻](https://github-readme-stats.vercel.app/api?username=lurenss&show_icons=true&theme=2077&hide_border=true&include_all_commits=true&count_private=true)
+![👨🏼‍💻](https://github-readme-stats.vercel.app/api?username=lurenss&show_icons=true&theme=2077&include_all_commits=true&count_private=true)
 ![📊](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lurenss&theme=2077)
 
 
