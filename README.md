@@ -5,7 +5,7 @@ I'm Lorenzo aka Lurens a software engineer fascinated by AI, currently working a
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lurenss&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lurenss&theme=2077&count_private=true)
 
 
 
@@ -15,11 +15,6 @@ I'm Lorenzo aka Lurens a software engineer fascinated by AI, currently working a
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lurenss&theme=2077&utcOffset=2&count_private=true)
-
-
-![Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=lurenss&theme=2077&&show_icons=true&count_private=true)
-
-![Contribution Graph](https://github.com/lurens/github-readme-activity-graph)
 
 
 
