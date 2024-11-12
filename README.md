@@ -14,10 +14,12 @@ I'm Lorenzo aka Lurens a software engineer fascinated by AI, currently working a
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lurenss&theme=2077&utcOffset=2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lurenss&theme=2077&utcOffset=2&count_private=true)
 
 
-![Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=lurenss&layout=compact&show_icons=true&theme=2077)
+![Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=lurenssttheme=2077&&show_icons=true&count_private=true)
+
+![Contribution Graph](https://github.com/lurens/github-readme-activity-graph&theme=2077&count_private=true)
 
 
 
